@@ -27,6 +27,7 @@
         "dev": "concurrently -k \"BROWSER=none npm start\" \"npm:electron\"",
         "electron": "wait-on tcp:3000 && electron .",
         "pack": "electron-builder --dir",
+        "packmac": "electron-builder --dir --mac",
         "dist": "electron-builder"
     },
     "eslintConfig": {
