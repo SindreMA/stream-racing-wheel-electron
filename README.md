@@ -1,6 +1,7 @@
 # THIS IS A MODIFIED VERSION OF https://github.com/joetex/stream-racing-wheel
 
-<img src="https://sindrema.com/files/2022-08-14_23-23-06.gif" width="600"/>
+video: https://sindrema.com/files/2022-08-14_23-23-06.gif
+![image](https://user-images.githubusercontent.com/29127320/187381881-88a0aebf-fb5f-427d-9718-60950befe6d3.png)
 
 Moved to electron so it can act as an overlay
 
